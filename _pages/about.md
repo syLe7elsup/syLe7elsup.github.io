@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student from Applied Mathematics and Statistics department, Johns Hopkins Univeristy. I am very fortunated to be advised by Prof. Benjamine Grimmer (https://www.ams.jhu.edu/~grimmer/) from the same instituition. 
+I am a first-year Ph.D. student in the Applied Mathematics and Statistics department at Johns Hopkins University, and I am excited about the new chapter of my academic journey. I am very fortunated to be advised by Prof. Benjamine Grimmer (https://www.ams.jhu.edu/~grimmer/) from the Applied Mathematics and Statistics department at Johns Hopkins University.
 
 Research Interest
 ======
